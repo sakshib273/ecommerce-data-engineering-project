@@ -27,7 +27,7 @@ AWS S3, Athena, Glue, Redshift, pandas, Jupyter Notebooks.
 ![Ecommerce_data_model](https://github.com/user-attachments/assets/545210c2-4410-4988-82e4-b10e51605da6)
 
 
-## Dimensional mode
+## Dimensional model
 
 ![ecomm_dimension_model](https://github.com/user-attachments/assets/c12da968-2d6c-472b-8df3-6df2069d4a27)
 
