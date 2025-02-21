@@ -32,9 +32,20 @@ AWS S3, Athena, Glue, Redshift, pandas, Jupyter Notebooks.
 ![ecomm_dimension_model](https://github.com/user-attachments/assets/c12da968-2d6c-472b-8df3-6df2069d4a27)
 
 ## Snapshot of the Dashboard
+### Navigation Page
+![Image](https://github.com/user-attachments/assets/9a4c2d51-c4c7-4bc7-a800-af310b790d8b)
+### Revenue Analysis Page
+![Image](https://github.com/user-attachments/assets/9d82a933-b830-451b-b088-9dfaa8a6720c)
+![Image](https://github.com/user-attachments/assets/61f878b2-6cac-492d-8e41-39649ca54453)
+![Image](https://github.com/user-attachments/assets/261fab38-d4bb-44b0-a53e-2a66f2eb29a6)
+### Trend Analysis Page
+![Image](https://github.com/user-attachments/assets/8154a52c-514f-49c0-8ac4-bda79ae401d3)
+### Reviews Analysis Page
+![Image](https://github.com/user-attachments/assets/f15aa917-173a-4307-a8c5-f1884cf7ad06)
 
-![Screenshot (116)](https://github.com/user-attachments/assets/1e059eea-a228-4497-9640-dd9985cd4452)
-
+### Tooltips
+![Image](https://github.com/user-attachments/assets/532df99b-2483-4af4-a529-1185e340bf21)
+![Image](https://github.com/user-attachments/assets/e1835384-ceca-46e7-87cd-9d1c58299082)
 
 
 
